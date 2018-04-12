@@ -18,17 +18,24 @@ A curated list of amazingly awesome resources for (not only) LMC developers.
     - [Why write tests](https://www.ibuildings.nl/blog/2016/08/why-write-tests)
 - [SOLID, GRASP](https://www.zdrojak.cz/serialy/principy-objektove-orientovaneho-navrhu/)
 - [Verzování Databáze - Martin Major](https://www.youtube.com/watch?v=KTmlw5AKM8E)
+- [Technický dluh](http://blog.think-forth.com/2016/01/21/technicky-dluh/)
 
 ### PHP
 - [Symfony komponenty](https://www.zdrojak.cz/serialy/symfony-po-kruckach/)
+- [Fractal of bad design](http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
+- [Formatting exceptions](http://rosstuck.com/formatting-exception-messages/)
+- [Doctrine hydratation optimization](https://ocramius.github.io/blog/doctrine-orm-optimization-hydration/)
+- [Functional programming](https://speakerdeck.com/pwm/functional-programming-in-php)
 
 ## Code review
 - [Code reviews v praxi](https://www.zdrojak.cz/clanky/code-reviews-praxi/])
 - [Code review checklist](https://www.zdrojak.cz/clanky/code-review-checklist/)
 - [Co nás naučilo code review](https://www.zdrojak.cz/clanky/co-nas-naucilo-code-review/)
+- [Giving better code review](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36)
 
 ## Q&A
 - [Funkční systémové testování: když unit-testy nestačí - @OndraM](http://prvnivcesku.cz/systemove-testovani/)
+- [PHPUnit - best practices](https://thephp.cc/news/2016/02/questioning-phpunit-best-practices)
 
 ## Git
 - [Jak a proč fixupovat](https://filip-prochazka.com/blog/git-fixup)
