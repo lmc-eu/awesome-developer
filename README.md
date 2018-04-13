@@ -18,6 +18,7 @@ A curated list of amazingly awesome resources for (not only) LMC developers.
     - [Why write tests](https://www.ibuildings.nl/blog/2016/08/why-write-tests)
 - [SOLID, GRASP](https://www.zdrojak.cz/serialy/principy-objektove-orientovaneho-navrhu/)
 - [Verzování Databáze - Martin Major](https://www.youtube.com/watch?v=KTmlw5AKM8E)
+- [Technický dluh](https://blog.think-forth.com/2016/01/21/technicky-dluh/)
 
 ### PHP
 - [Symfony komponenty](https://www.zdrojak.cz/serialy/symfony-po-kruckach/)
