@@ -27,6 +27,7 @@ If you get through them, they will surely make you a better and even more awesom
 - [Technický dluh](https://blog.think-forth.com/2016/01/21/technicky-dluh/) (🇨🇿)
 
 #### PHP-specific
+- [Named constructors](http://verraes.net/2014/06/named-constructors-in-php/) - especially value objects may be better instantiated via static named constructors, instead of `__construct()`.
 - [Symfony komponenty](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) (🇨🇿) - article series about standalone Symfony components.
 
 ### Code review
