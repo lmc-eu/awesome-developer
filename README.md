@@ -17,7 +17,6 @@ If you get through them, they will surely make you a better and even more awesom
 - [Newsletters](#newsletters)
 
 ### Development
-- [Extremely Defensive PHP](https://ocramius.github.io/extremely-defensive-php/#/)
 - [Fluent interfaces are evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/) - there are actually were few cases when fluent interfaces should be used.
 - Article series by Matthias Noback:
     - [Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-part-1-reducing-complexity)
@@ -28,6 +27,7 @@ If you get through them, they will surely make you a better and even more awesom
 - [Technický dluh](https://blog.think-forth.com/2016/01/21/technicky-dluh/) (🇨🇿)
 
 #### PHP-specific
+- [Extremely Defensive PHP](https://ocramius.github.io/extremely-defensive-php/#/) - Avoid mistakes. Be cautious about your code.
 - [Named constructors](http://verraes.net/2014/06/named-constructors-in-php/) - especially value objects may be better instantiated via static named constructors, instead of `__construct()`.
 - [Symfony komponenty](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) (🇨🇿) - article series about standalone Symfony components.
 
