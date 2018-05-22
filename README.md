@@ -17,6 +17,7 @@ If you get through them, they will surely make you a better and even more awesom
 - [Newsletters](#newsletters)
 
 ### Development
+- [Extremely Defensive PHP](https://ocramius.github.io/extremely-defensive-php/#/)
 - [Fluent interfaces are evil](https://ocramius.github.io/blog/fluent-interfaces-are-evil/) - there are actually were few cases when fluent interfaces should be used.
 - Article series by Matthias Noback:
     - [Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-part-1-reducing-complexity)
