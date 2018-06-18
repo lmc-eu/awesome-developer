@@ -8,7 +8,7 @@ before_script:
   - gem install danger
 
 script:
-  - awesome_bot README.md
+  - travis_retry awesome_bot README.md
   - danger
 
 notifications:
