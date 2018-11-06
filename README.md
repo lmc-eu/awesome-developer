@@ -32,7 +32,7 @@ If you get through them, they will surely make you a better and even more awesom
 - [Symfony komponenty](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) (🇨🇿) - article series about standalone Symfony components.
 
 ### Code review
-- [Code reviews v praxi](https://www.zdrojak.cz/clanky/code-reviews-praxi/]) (🇨🇿)
+- [Code reviews v praxi](https://www.zdrojak.cz/clanky/code-reviews-praxi/) (🇨🇿)
 - [Code review checklist](https://www.zdrojak.cz/clanky/code-review-checklist/) (🇨🇿)
 - [Co nás naučilo code review](https://www.zdrojak.cz/clanky/co-nas-naucilo-code-review/) (🇨🇿)
 
