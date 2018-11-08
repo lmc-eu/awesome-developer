@@ -30,6 +30,8 @@ If you get through them, they will surely make you a better and even more awesom
 - [Extremely Defensive PHP](https://ocramius.github.io/extremely-defensive-php/#/) - Avoid mistakes. Be cautious about your code.
 - [Named constructors](http://verraes.net/2014/06/named-constructors-in-php/) - especially value objects may be better instantiated via static named constructors, instead of `__construct()`.
 - [Symfony komponenty](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) (🇨🇿) - article series about standalone Symfony components.
+- [Dealing with exceptional conditions](https://www.youtube.com/watch?v=1YAGxJVuuws) (🎥) - best practices for dealing with exceptions in PHP.
+    - Main ideas are also summed [in an article](https://blog.nikolaposa.in.rs/2016/08/17/exceptional-behavior-best-practices/).
 
 ### Code review
 - [Code reviews v praxi](https://www.zdrojak.cz/clanky/code-reviews-praxi/) (🇨🇿)
