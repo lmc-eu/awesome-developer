@@ -25,6 +25,7 @@ If you get through them, they will surely make you a better and even more awesom
 - [Principy objektově orientovaného návrhu](https://www.zdrojak.cz/serialy/principy-objektove-orientovaneho-navrhu/) (🇨🇿) - article series covering SOLID and GRASP patterns.
 - [Verzování Databáze](https://www.youtube.com/watch?v=KTmlw5AKM8E) (🇨🇿 🎥) - why and how to migrate your database with backward-compatibility.
 - [Technický dluh](https://blog.think-forth.com/2016/01/21/technicky-dluh/) (🇨🇿)
+- [Compare JSON: Object Keys, Array Order and Record IDs](https://bestjson.com/learn/compare-json-ignore-order) - Explains how array order, duplicate counts and record IDs affect JSON comparison results.
 
 #### PHP-specific
 - [Extremely Defensive PHP](https://ocramius.github.io/extremely-defensive-php/#/) - Avoid mistakes. Be cautious about your code.
